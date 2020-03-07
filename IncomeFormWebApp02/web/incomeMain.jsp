@@ -18,6 +18,23 @@
         <a href="">Create New Income</a>
         <br><br>
         
-        Create here a table for all income
+        <table style="width:50%" border="1">
+            <tr>
+                <th>Id</th>
+                <th>Category</th>
+                <th>Amount</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Salary</td>
+                <td>900</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Bonus</td>
+                <td>300</td>
+            </tr>
+        </table>
+        
     </body>
 </html>
